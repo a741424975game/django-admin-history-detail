@@ -1,0 +1,2 @@
+include LICENSE
+recursive-include admin_history_detail/locale *
